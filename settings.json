@@ -1,0 +1,20 @@
+{
+    "cwd":"D:\\Downloads",
+    "exports":{
+        "pdf":"D:\\Desktop\\pdf",
+        "ai":"D:\\Desktop\\ai",
+        "zip":"D:\\Desktop\\zip",
+        "png":"D:\\Pictures",
+        "jpg":"D:\\Pictures",
+        "jpeg":"D:\\Pictures",
+        "webp":"D:\\Pictures",
+        "json":"D:\\Desktop\\extras",
+        "docx":"D:\\Desktop\\micro",
+        "xlsx":"D:\\Desktop\\micro",
+        "psd":"D:\\Desktop\\ai",
+        "mp3":"D:\\Music",
+        "exe":"D:\\Documents\\Installers",
+        "msi":"D:\\Documents\\Installers",
+        "folder":"D:\\Documents\\Saved-Folders"
+    }
+}
