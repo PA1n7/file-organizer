@@ -30,4 +30,6 @@ To create shortcut
 
 # Instructions
 
-Just click the executable in dist folder and it will open every time you turn on the computer, if you don't want it starting just press windows + R and delete file-organizer.lnk
+Download from [itch](https://pein4346.itch.io/file-organizer) then edit the settings.json file to change what files go where, or leave it with the presets, and then just run it once, after that it should run every single time when you turn on your computer.
+
+!The settings in the github page and the ones uploaded in the download page are different!
