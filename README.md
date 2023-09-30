@@ -30,6 +30,4 @@ To create shortcut
 
 # Instructions
 
-Download from [itch](https://pein4346.itch.io/file-organizer) then edit the settings.json file to change what files go where, or leave it with the presets, and then just run it once, after that it should run every single time when you turn on your computer.
-
-!The settings in the github page and the ones uploaded in the download page are different!
+Download from [itch](https://pein4346.itch.io/file-organizer) then go into the /dist folder and click on the exe file, after that it'll run every time you turn on your computer
