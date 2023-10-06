@@ -64,6 +64,8 @@ while True:
                 newPath = settings["exports"][extension]
                 check_dir(newPath)
                 #moving file
-                os.rename(f"{settings['cwd']}\\{elem}", f"{newPath}\\{elem}")
+                counter = 0
+                if not os.path.exists(f"{newPath}\\{elem}"):
+                    os.rename(f"{settings['cwd']}\\{elem}", f"{newPath}\\{elem}")
     #added a sleep so it doesn't take that much CPU
     time.sleep(1)
